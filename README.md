@@ -1,4 +1,4 @@
-# Eye Disease Detection Model
+# Vision Health Diagnostic model
 
 This repository contains an image detection model for testing eye diseases, including cataract, diabetic retinopathy, glaucoma, and normal eyes. The model was built using BERT and TensorFlow, with all model training, testing, and visualization included. The model's performance is integrated into a Flask-based web application for user interaction.
 
@@ -44,7 +44,7 @@ A Flask-based web application is integrated with the trained model. Users can up
 To set up the project locally:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/eye-disease-detection.git
+   git clone https://github.com/Tanishq3012/vision-health-diagnostic-model.git
    cd eye-disease-detection
 2. Create a virtual environment and activate it:
    ```sh
