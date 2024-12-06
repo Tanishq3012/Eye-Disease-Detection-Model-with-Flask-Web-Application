@@ -44,7 +44,7 @@ A Flask-based web application is integrated with the trained model. Users can up
 To set up the project locally:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Tanishq3012/vision-health-diagnostic-model.git
+   https://github.com/Tanishq3012/Eye-Disease-Detection-Model-with-Flask-Web-Application.git
    cd eye-disease-detection
 2. Create a virtual environment and activate it:
    ```sh
